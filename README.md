@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi👋, I'm Cesar Nieves </b><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3MxaW40aXNtbWVwM3plNm8yYWU5bHd5MXhqeGsyZ3lmd2I1bXNreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ2DCSQA1xCVi/200w.webp" width="35"></h1>
+<h1 align="center"><b>Hi👋, I'm Cesar Nieves <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3MxaW40aXNtbWVwM3plNm8yYWU5bHd5MXhqeGsyZ3lmd2I1bXNreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ2DCSQA1xCVi/200w.webp" width="35"></h1> </b>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
