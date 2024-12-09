@@ -1,16 +1,18 @@
 <h1 align="center"><b>Hi👋, I'm Cesar Nieves </b><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3MxaW40aXNtbWVwM3plNm8yYWU5bHd5MXhqeGsyZ3lmd2I1bXNreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ2DCSQA1xCVi/200w.webp" width="35"></h1>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> ***About me***
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> ***About me***
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
-I'm a final-year Computer Systems Engineering student with a strong passion for web and mobile app development. I'm eager to learn and grow, always striving to achieve my goals. :school: <br> I love to learn and build something new, productive, innovative and creative. 
+I'm a final-year Systems Engineering student with a strong passion for web and mobile app development. I'm eager to learn and grow, always striving to achieve my goals. :school: <br> I love to learn and build something new, productive, innovative and creative. 
 <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWE3b2VqZWI3anpteGo4MjBsMDdmZG9jaTM4amY2ZHVsZ3ZieXFqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/0GcfctvHqLQBb2xVJY/giphy.webp" width = "25">
+
+- 💻 As a Systems engineering student, i’m currently working on my final year project, a water tank monitoring and control app. Developed using Flutter, Python, and Arduino *(C++)*.
 
 * **I'm interested in Web designing, Mobile app development, and Games development**
 - 🌱 I’m currently learning ...
-  - .NET
+  - Arduino
   - Firebase
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 🎥 I enjoy watching movies, 🎮 playing videogames, 🎵 listen to music, and 🌴 explore nature outdoors.
@@ -19,7 +21,6 @@ I'm a final-year Computer Systems Engineering student with a strong passion for 
 
 
 ## My Skills Include
-<h3>i´ve worked with</h3>
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -41,6 +42,14 @@ I'm a final-year Computer Systems Engineering student with a strong passion for 
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 </span>
+
+### My Stats
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=NievesC13&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NievesC13&theme=react&layout=compact" />
+</p>
+
 
 
 
