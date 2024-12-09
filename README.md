@@ -8,7 +8,7 @@
 I'm a final-year Computer Systems Engineering student with a strong passion for web and mobile app development. I'm eager to learn and grow, always striving to achieve my goals. :school: <br> I love to learn and build something new, productive, innovative and creative. 
 <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWE3b2VqZWI3anpteGo4MjBsMDdmZG9jaTM4amY2ZHVsZ3ZieXFqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/0GcfctvHqLQBb2xVJY/giphy.webp" width = "25">
 
-* **I am interested in Web designing, Mobile app development, and Games development**
+* **I'm interested in Web designing, Mobile app development, and Games development**
 - 🌱 I’m currently learning ...
   - .NET
   - Firebase
